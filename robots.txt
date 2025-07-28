@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /
+Sitemap: https://marripallithejaswani.github.io/Technetwork-site/sitemap.xml
